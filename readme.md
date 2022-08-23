@@ -3,11 +3,8 @@
 > ### 📱 **This is fully responsive website developed with HTML and Tailwind CSS**
 
 <br>
-<br>
 
 ## **Features**
-
-<hr>
 
 👉 **Mobile Responsive First**
 
@@ -46,3 +43,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ![](https://img.shields.io/badge/Build%20By-Tailwind%20%26%20HTML-blue)
 
 ## Live Link
+
+[Shopify Clone - CLICK ME!](https://17-abhishek-shopify-clone.netlify.app/)
